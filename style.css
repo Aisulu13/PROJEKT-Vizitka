@@ -14,3 +14,70 @@ tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
 
+
+
+body{
+    background-color: #b2bec3 ;
+    font-size: 18px;
+   text-align: center;
+   font-family: 'Nunito', sans-serif;
+}
+h1 {
+    text-align: left;
+color: #d63031;
+font-size: 36px;
+padding: 30px;
+ 
+}
+.foto-Eliška{
+    width: 150px;
+    border-radius: 50%;
+    border: solid white;
+    
+
+}
+
+p{
+    text-align: justify;
+    margin: 30px;
+
+
+}
+
+.box{
+    background-color: white;
+    margin: 150px;
+    border-radius: 10px;   
+    padding: 30px;
+
+  
+    
+    
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow:11px 11px 2px 1px
+    
+}
+
+    .tlacitko{
+       margin: 0;
+       padding: 0;
+     background-color: #1da1f2 ;
+}
+.tlacitko li{
+    display: block;
+}
+
+.tlacitko  a{
+    display: block;
+    text-decoration: none;
+    padding: 30px;
+}
+.tlacitko a hover{
+    background-color: #0b7bc1;
+    color: white;
+}
+
+
+
